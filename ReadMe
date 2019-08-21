@@ -1,0 +1,6 @@
+# Home-Automation
+Using Bluetooth module(HC-05) and AMR voice app, different loads are turned ON/OFF on voice command.
+The code is written in C language using arduino IDE.
+This project aims to control home appliances by voice commands.
+The main advantage of implementing home automation using voice commands is that user convinience.
+It can also be used by disabled people and also blinds so that they can easily get used to home automation.
